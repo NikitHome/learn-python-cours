@@ -7,7 +7,7 @@
 ### Разделы:
 
 - [Подготовка](#подготовка)
-- [Hello world](#hello-world!)
+- [Hello world!](#hello-world!)
 
 ## Подготовка
 
