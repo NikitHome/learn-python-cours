@@ -45,3 +45,7 @@ https://sublimetext.com/. Щелкните на ссылке загрузки и
 ## Переменные и строки
 
 - Переменные, строки, простые операции со строками: strings/name.py
+- Использование переменных в строках: strings/full_name.py
+- Табуляции и разрывы строк: strings/whitespace.py
+- Удаление пропусков: strings/favorite_language.py
+- Предотвращение синтаксических ошибок в строках: strings/apostrophe.py
