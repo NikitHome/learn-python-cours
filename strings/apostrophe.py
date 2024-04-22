@@ -1,3 +1,5 @@
+# Разберемся, как же правильно использовать одиночные или двойные ковычки.
+
 message = "One of Python's strengths is its diverse community."
 print(message)
 
