@@ -71,3 +71,4 @@ https://sublimetext.com/. Щелкните на ссылке загрузки и
 ## Списки
 
 - Что такое список: lists/bicycles.py
+- Изменение, добавление и удаление элементов: lists/motorcycles.py
