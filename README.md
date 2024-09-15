@@ -43,21 +43,21 @@ https://sublimetext.com/. Щелкните на ссылке загрузки и
 
 ## Hello World!
 
-- Первая программа: hello_world/hello_world.py
+- Первая программа: Themes/Theme_1/hello_world/hello_world.py
 
 ## Переменные и строки
 
-- Переменные, строки, простые операции со строками: strings/name.py
-- Использование переменных в строках: strings/full_name.py
-- Табуляции и разрывы строк: strings/whitespace.py
-- Удаление пропусков: strings/favorite_language.py
-- Предотвращение синтаксических ошибок в строках: strings/apostrophe.py
+- Переменные, строки, простые операции со строками: Themes/Theme_2/strings/name.py
+- Использование переменных в строках: Themes/Theme_2/strings/full_name.py
+- Табуляции и разрывы строк: Themes/Theme_2/strings/whitespace.py
+- Удаление пропусков: Themes/Theme_2/strings/favorite_language.py
+- Предотвращение синтаксических ошибок в строках: Themes/Theme_2/strings/apostrophe.py
 
 ## Числа и комментарии
 
-- Целые и вещественные числа: numbers/numbers.py
-- Константы: numbers/constant.py
-- Комментарии: numbers/comment.py
+- Целые и вещественные числа: Themes/Theme_3/numbers/numbers.py
+- Константы: Themes/Theme_3/numbers/constant.py
+- Комментарии: Themes/Theme_3/numbers/comment.py
 
 ## Дзен Python
 
@@ -70,5 +70,5 @@ https://sublimetext.com/. Щелкните на ссылке загрузки и
 
 ## Списки
 
-- Что такое список: lists/bicycles.py
-- Изменение, добавление и удаление элементов: lists/motorcycles.py
+- Что такое список: Themes/Theme_4/lists/bicycles.py
+- Изменение, добавление и удаление элементов: Themes/Theme_4/lists/motorcycles.py
