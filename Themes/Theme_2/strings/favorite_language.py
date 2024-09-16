@@ -19,7 +19,7 @@ print(favorite_language)
 
 # Чтобы навсегда исключить пропуск из строки, следует записать усеченное 
 # значение обратно в переменную:
-favorite_language = favorite_language.rstrip()
+favorite_language.rstrip()
 print(favorite_language)
 
 # Пропуски также можно удалить у левого края (в начале) строки при помощи метода  
