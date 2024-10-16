@@ -1,4 +1,4 @@
-filename = 'files/pi_digits.txt'
+filename = 'Themes/Theme_12/files/pi_digits.txt'
 
 with open(filename) as file_object:
     lines = file_object.readlines()
