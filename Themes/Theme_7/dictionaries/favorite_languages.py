@@ -8,35 +8,35 @@ favorite_languages = {
 language_item = favorite_languages['sarah'].title()
 print(f"Sarah's favorite language is {language_item}")
 
-print("\n")
+print()
 
 
 
 for name, language in favorite_languages.items():
     print(f"{name.title()}'s favorite language is {language.title()}")
     
-print("\n")
+print()
     
     
     
 for name in favorite_languages.keys():
     print(name.title())
     
-print("\n")
+print()
 
 
 
 for language in sorted(favorite_languages.values()):
     print(language.title())
     
-print("\n")
+print()
 
 
 
 for language in set(favorite_languages.values()):
     print(language.title())
     
-print("\n")
+print()
 
 
 
