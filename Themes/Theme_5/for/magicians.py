@@ -1,9 +1,9 @@
 magicians = ['alice', 'david', 'carolina']
 
-for magician in magicians: # цикл
+for magician in magicians:
     print(magician)
     
-print('\n') # \n - перенос на новую строку
+print()
     
 for magician in magicians:
     print(f"{magician.title()}, that was a great trick!")
