@@ -7,7 +7,7 @@ if 'pepperoni' in requested_topping:
 if 'extra cheese' in requested_topping:
     print("Adding extra cheese!")
     
-print("\n")
+print()
 
 
 
