@@ -12,6 +12,7 @@ print(musician)
 musician = get_formatted_name('jhon', 'hooker')
 print(musician)
 
+
 while True:
     print("\nPlease tell me your name:")
     print("(enter 'q' at any time to quit)")
