@@ -40,4 +40,4 @@ print(number_11)
 number_12 = 4 / 2
 print(number_12)
 
-x, y, x = 0, 0, 0
+x, y, z = 0, 0, 0
