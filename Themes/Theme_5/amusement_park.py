@@ -13,7 +13,7 @@ if age < 4:
 elif age < 18:
     price = 25
 else:
-    price = 0
+    price = 40
     
 print(f"\nYour admission cost is ${price}.")
 
