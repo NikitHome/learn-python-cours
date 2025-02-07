@@ -4,4 +4,4 @@ def greet_users(names):
         print(msg)
     
 usernames = ['hannah', 'ty', 'margot']
-greet_users(names=usernames)
+greet_users(usernames)
