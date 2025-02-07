@@ -8,3 +8,6 @@ my_new_car.read_odometer()
 
 my_new_car.increment_odometer(200)
 my_new_car.read_odometer()
+
+my_new_car.update_odometer(110)
+my_new_car.read_odometer()
