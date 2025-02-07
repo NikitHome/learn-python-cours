@@ -12,5 +12,5 @@ def build_person(first_name, last_name, age=None):
         person['age'] = age
     return person
 
-musician = build_person('jimi', 'hendrix', age=27)
+musician = build_person('jimi', 'hendrix', 27)
 print(musician)
