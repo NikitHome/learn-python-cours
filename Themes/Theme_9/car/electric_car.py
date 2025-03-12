@@ -13,7 +13,7 @@ class Battery():
         elif self.battery_size == 100:
             range = 315
             
-        print(f"This car can go about {range} miles on full charge.")
+        print(f'This car can go about {range} miles on a full charge.')
         
 class ElectricCar(Car):
     def __init__(self, make, model, year):
