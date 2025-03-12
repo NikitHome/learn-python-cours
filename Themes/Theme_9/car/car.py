@@ -1,3 +1,5 @@
+"""Класс для представления автомобиля."""
+
 class Car():
     def __init__(self, make, model, year):
         self.make = make
@@ -20,4 +22,3 @@ class Car():
             
     def increment_odometer(self, miles):
         self.odometer_reading += miles
-        
