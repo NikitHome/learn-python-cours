@@ -1,6 +1,7 @@
 class Dog():
+    """Простая модель собаки."""
     def __init__(self, name, age):
-        self.name = name.title()
+        self.name = name
         self.age = age
         
     def sit(self):
@@ -18,4 +19,4 @@ my_dog.sit()
 
 print(f"Your dog's name is {your_dog.name}.")
 print(f"Your dog is {your_dog.age} years old.")
-your_dog.roll_over()
+your_dog.sit()
