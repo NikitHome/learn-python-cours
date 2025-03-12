@@ -1,4 +1,4 @@
-filename = 'Themes/Theme_12/files/pi_digits.txt'
+filename = 'themes/theme_10/pi/pi_digits.txt'
 
 with open(filename) as file_object:
     lines = file_object.readlines()
@@ -8,5 +8,4 @@ for line in lines:
     pi_string += line.strip()
     
 print(pi_string)
-print(f"{pi_string[:52]}...")
 print(len(pi_string))
