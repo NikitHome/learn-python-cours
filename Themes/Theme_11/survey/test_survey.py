@@ -19,7 +19,7 @@ class TestAnonymousSurvey(unittest.TestCase):
         question = 'What language did you first learn to speak?'
         my_survey = AnonymousSurvey(question)
         
-        responses = ['English', 'Spanish', 'Mandarin']
+        responses = ['English', 'Spanish', 'Russian']
         for response in responses:
             my_survey.store_response(response)
             
